@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\bin\Debug\netcoreapp2.1\isLuckyTicket.deps.json
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\bin\Debug\netcoreapp2.1\isLuckyTicket.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\bin\Debug\netcoreapp2.1\isLuckyTicket.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\bin\Debug\netcoreapp2.1\isLuckyTicket.dll
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\bin\Debug\netcoreapp2.1\isLuckyTicket.pdb
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\obj\Debug\netcoreapp2.1\isLuckyTicket.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\obj\Debug\netcoreapp2.1\isLuckyTicket.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\obj\Debug\netcoreapp2.1\isLuckyTicket.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\obj\Debug\netcoreapp2.1\isLuckyTicket.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\obj\Debug\netcoreapp2.1\isLuckyTicket.dll
+C:\Users\gregs\Desktop\CD\isLuckyTicket\isLuckyTicket\obj\Debug\netcoreapp2.1\isLuckyTicket.pdb

@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\bin\Debug\netcoreapp2.1\removeKFromList.deps.json
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\bin\Debug\netcoreapp2.1\removeKFromList.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\bin\Debug\netcoreapp2.1\removeKFromList.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\bin\Debug\netcoreapp2.1\removeKFromList.dll
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\bin\Debug\netcoreapp2.1\removeKFromList.pdb
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\obj\Debug\netcoreapp2.1\removeKFromList.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\obj\Debug\netcoreapp2.1\removeKFromList.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\obj\Debug\netcoreapp2.1\removeKFromList.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\obj\Debug\netcoreapp2.1\removeKFromList.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\obj\Debug\netcoreapp2.1\removeKFromList.dll
+C:\Users\gregs\Desktop\CD\removeKFromList\removeKFromList\obj\Debug\netcoreapp2.1\removeKFromList.pdb

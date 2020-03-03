@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\bin\Debug\netcoreapp2.1\matrixGhostHotel.deps.json
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\bin\Debug\netcoreapp2.1\matrixGhostHotel.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\bin\Debug\netcoreapp2.1\matrixGhostHotel.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\bin\Debug\netcoreapp2.1\matrixGhostHotel.dll
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\bin\Debug\netcoreapp2.1\matrixGhostHotel.pdb
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\obj\Debug\netcoreapp2.1\matrixGhostHotel.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\obj\Debug\netcoreapp2.1\matrixGhostHotel.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\obj\Debug\netcoreapp2.1\matrixGhostHotel.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\obj\Debug\netcoreapp2.1\matrixGhostHotel.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\obj\Debug\netcoreapp2.1\matrixGhostHotel.dll
+C:\Users\gregs\Desktop\CD\matrixGhostHotel\matrixGhostHotel\obj\Debug\netcoreapp2.1\matrixGhostHotel.pdb

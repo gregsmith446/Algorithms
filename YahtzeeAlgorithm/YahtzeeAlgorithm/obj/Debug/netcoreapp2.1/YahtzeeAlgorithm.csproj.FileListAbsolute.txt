@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\bin\Debug\netcoreapp2.1\YahtzeeAlgorithm.deps.json
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\bin\Debug\netcoreapp2.1\YahtzeeAlgorithm.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\bin\Debug\netcoreapp2.1\YahtzeeAlgorithm.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\bin\Debug\netcoreapp2.1\YahtzeeAlgorithm.dll
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\bin\Debug\netcoreapp2.1\YahtzeeAlgorithm.pdb
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\obj\Debug\netcoreapp2.1\YahtzeeAlgorithm.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\obj\Debug\netcoreapp2.1\YahtzeeAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\obj\Debug\netcoreapp2.1\YahtzeeAlgorithm.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\obj\Debug\netcoreapp2.1\YahtzeeAlgorithm.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\obj\Debug\netcoreapp2.1\YahtzeeAlgorithm.dll
+C:\Users\gregs\Desktop\CD\YahtzeeAlgorithm\YahtzeeAlgorithm\obj\Debug\netcoreapp2.1\YahtzeeAlgorithm.pdb

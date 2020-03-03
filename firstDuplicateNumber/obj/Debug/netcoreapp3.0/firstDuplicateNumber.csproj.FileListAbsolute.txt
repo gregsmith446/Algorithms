@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\bin\Debug\netcoreapp3.0\firstDuplicateNumber.exe
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\bin\Debug\netcoreapp3.0\firstDuplicateNumber.deps.json
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\bin\Debug\netcoreapp3.0\firstDuplicateNumber.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\bin\Debug\netcoreapp3.0\firstDuplicateNumber.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\bin\Debug\netcoreapp3.0\firstDuplicateNumber.dll
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\bin\Debug\netcoreapp3.0\firstDuplicateNumber.pdb
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\obj\Debug\netcoreapp3.0\firstDuplicateNumber.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\obj\Debug\netcoreapp3.0\firstDuplicateNumber.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\obj\Debug\netcoreapp3.0\firstDuplicateNumber.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\obj\Debug\netcoreapp3.0\firstDuplicateNumber.dll
+C:\Users\gregs\Desktop\CD\firstDuplicateNumber\obj\Debug\netcoreapp3.0\firstDuplicateNumber.pdb

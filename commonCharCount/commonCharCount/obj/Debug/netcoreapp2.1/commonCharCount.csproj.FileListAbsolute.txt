@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\bin\Debug\netcoreapp2.1\commonCharCount.deps.json
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\bin\Debug\netcoreapp2.1\commonCharCount.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\bin\Debug\netcoreapp2.1\commonCharCount.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\bin\Debug\netcoreapp2.1\commonCharCount.dll
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\bin\Debug\netcoreapp2.1\commonCharCount.pdb
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\obj\Debug\netcoreapp2.1\commonCharCount.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\obj\Debug\netcoreapp2.1\commonCharCount.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\obj\Debug\netcoreapp2.1\commonCharCount.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\obj\Debug\netcoreapp2.1\commonCharCount.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\obj\Debug\netcoreapp2.1\commonCharCount.dll
+C:\Users\gregs\Desktop\CD\commonCharCount\commonCharCount\obj\Debug\netcoreapp2.1\commonCharCount.pdb

@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\bin\Debug\netcoreapp2.1\almostIncreasingSequence.deps.json
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\bin\Debug\netcoreapp2.1\almostIncreasingSequence.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\bin\Debug\netcoreapp2.1\almostIncreasingSequence.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\bin\Debug\netcoreapp2.1\almostIncreasingSequence.dll
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\bin\Debug\netcoreapp2.1\almostIncreasingSequence.pdb
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\obj\Debug\netcoreapp2.1\almostIncreasingSequence.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\obj\Debug\netcoreapp2.1\almostIncreasingSequence.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\obj\Debug\netcoreapp2.1\almostIncreasingSequence.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\obj\Debug\netcoreapp2.1\almostIncreasingSequence.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\obj\Debug\netcoreapp2.1\almostIncreasingSequence.dll
+C:\Users\gregs\Desktop\CD\almostIncreasingSequence\almostIncreasingSequence\obj\Debug\netcoreapp2.1\almostIncreasingSequence.pdb

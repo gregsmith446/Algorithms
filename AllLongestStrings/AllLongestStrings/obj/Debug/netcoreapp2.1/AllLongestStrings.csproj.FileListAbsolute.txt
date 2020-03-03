@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\obj\Debug\netcoreapp2.1\AllLongestStrings.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\obj\Debug\netcoreapp2.1\AllLongestStrings.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\obj\Debug\netcoreapp2.1\AllLongestStrings.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\obj\Debug\netcoreapp2.1\AllLongestStrings.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\bin\Debug\netcoreapp2.1\AllLongestStrings.deps.json
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\bin\Debug\netcoreapp2.1\AllLongestStrings.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\bin\Debug\netcoreapp2.1\AllLongestStrings.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\bin\Debug\netcoreapp2.1\AllLongestStrings.dll
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\bin\Debug\netcoreapp2.1\AllLongestStrings.pdb
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\obj\Debug\netcoreapp2.1\AllLongestStrings.dll
+C:\Users\gregs\Desktop\CD\AllLongestStrings\AllLongestStrings\obj\Debug\netcoreapp2.1\AllLongestStrings.pdb

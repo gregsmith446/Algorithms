@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\bin\Debug\netcoreapp2.1\ReverseIntOrder.deps.json
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\bin\Debug\netcoreapp2.1\ReverseIntOrder.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\bin\Debug\netcoreapp2.1\ReverseIntOrder.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\bin\Debug\netcoreapp2.1\ReverseIntOrder.dll
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\bin\Debug\netcoreapp2.1\ReverseIntOrder.pdb
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\obj\Debug\netcoreapp2.1\ReverseIntOrder.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\obj\Debug\netcoreapp2.1\ReverseIntOrder.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\obj\Debug\netcoreapp2.1\ReverseIntOrder.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\obj\Debug\netcoreapp2.1\ReverseIntOrder.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\obj\Debug\netcoreapp2.1\ReverseIntOrder.dll
+C:\Users\gregs\Desktop\CD\ReverseIntOrder\ReverseIntOrder\obj\Debug\netcoreapp2.1\ReverseIntOrder.pdb

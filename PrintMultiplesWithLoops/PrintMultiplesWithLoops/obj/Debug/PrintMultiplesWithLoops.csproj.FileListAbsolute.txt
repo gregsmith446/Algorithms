@@ -1,0 +1,7 @@
+C:\Users\gregs\Desktop\CD\PrintMultiplesWithLoops\PrintMultiplesWithLoops\obj\Debug\PrintMultiplesWithLoops.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\PrintMultiplesWithLoops\PrintMultiplesWithLoops\obj\Debug\PrintMultiplesWithLoops.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\PrintMultiplesWithLoops\PrintMultiplesWithLoops\bin\Debug\PrintMultiplesWithLoops.exe.config
+C:\Users\gregs\Desktop\CD\PrintMultiplesWithLoops\PrintMultiplesWithLoops\bin\Debug\PrintMultiplesWithLoops.exe
+C:\Users\gregs\Desktop\CD\PrintMultiplesWithLoops\PrintMultiplesWithLoops\bin\Debug\PrintMultiplesWithLoops.pdb
+C:\Users\gregs\Desktop\CD\PrintMultiplesWithLoops\PrintMultiplesWithLoops\obj\Debug\PrintMultiplesWithLoops.exe
+C:\Users\gregs\Desktop\CD\PrintMultiplesWithLoops\PrintMultiplesWithLoops\obj\Debug\PrintMultiplesWithLoops.pdb

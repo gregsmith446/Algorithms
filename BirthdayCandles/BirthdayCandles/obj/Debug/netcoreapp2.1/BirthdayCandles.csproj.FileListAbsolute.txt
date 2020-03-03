@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\bin\Debug\netcoreapp2.1\BirthdayCandles.deps.json
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\bin\Debug\netcoreapp2.1\BirthdayCandles.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\bin\Debug\netcoreapp2.1\BirthdayCandles.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\bin\Debug\netcoreapp2.1\BirthdayCandles.dll
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\bin\Debug\netcoreapp2.1\BirthdayCandles.pdb
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\obj\Debug\netcoreapp2.1\BirthdayCandles.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\obj\Debug\netcoreapp2.1\BirthdayCandles.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\obj\Debug\netcoreapp2.1\BirthdayCandles.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\obj\Debug\netcoreapp2.1\BirthdayCandles.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\obj\Debug\netcoreapp2.1\BirthdayCandles.dll
+C:\Users\gregs\Desktop\CD\BirthdayCandles\BirthdayCandles\obj\Debug\netcoreapp2.1\BirthdayCandles.pdb

@@ -1,0 +1,15 @@
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\bin\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.deps.json
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\bin\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\bin\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\bin\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.dll
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\obj\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\obj\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\obj\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\obj\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\bin\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.pdb
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\obj\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.dll
+C:\Users\gregs\Desktop\CD\FindPairofIntsThatEqualZero\FindPairofIntsThatEqualZero\obj\Debug\netcoreapp2.1\FindPairofIntsThatEqualZero.pdb

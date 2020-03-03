@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\bin\Debug\netcoreapp2.1\SortByHeight.deps.json
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\bin\Debug\netcoreapp2.1\SortByHeight.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\bin\Debug\netcoreapp2.1\SortByHeight.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\bin\Debug\netcoreapp2.1\SortByHeight.dll
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\bin\Debug\netcoreapp2.1\SortByHeight.pdb
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\obj\Debug\netcoreapp2.1\SortByHeight.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\obj\Debug\netcoreapp2.1\SortByHeight.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\obj\Debug\netcoreapp2.1\SortByHeight.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\obj\Debug\netcoreapp2.1\SortByHeight.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\obj\Debug\netcoreapp2.1\SortByHeight.dll
+C:\Users\gregs\Desktop\CD\SortByHeight\SortByHeight\obj\Debug\netcoreapp2.1\SortByHeight.pdb

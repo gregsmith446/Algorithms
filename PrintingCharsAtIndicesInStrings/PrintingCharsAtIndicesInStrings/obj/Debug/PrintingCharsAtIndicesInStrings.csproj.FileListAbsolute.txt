@@ -1,0 +1,7 @@
+C:\Users\gregs\Desktop\CD\PrintingCharsAtIndicesInStrings\PrintingCharsAtIndicesInStrings\bin\Debug\PrintingCharsAtIndicesInStrings.exe.config
+C:\Users\gregs\Desktop\CD\PrintingCharsAtIndicesInStrings\PrintingCharsAtIndicesInStrings\bin\Debug\PrintingCharsAtIndicesInStrings.exe
+C:\Users\gregs\Desktop\CD\PrintingCharsAtIndicesInStrings\PrintingCharsAtIndicesInStrings\bin\Debug\PrintingCharsAtIndicesInStrings.pdb
+C:\Users\gregs\Desktop\CD\PrintingCharsAtIndicesInStrings\PrintingCharsAtIndicesInStrings\obj\Debug\PrintingCharsAtIndicesInStrings.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\PrintingCharsAtIndicesInStrings\PrintingCharsAtIndicesInStrings\obj\Debug\PrintingCharsAtIndicesInStrings.exe
+C:\Users\gregs\Desktop\CD\PrintingCharsAtIndicesInStrings\PrintingCharsAtIndicesInStrings\obj\Debug\PrintingCharsAtIndicesInStrings.pdb
+C:\Users\gregs\Desktop\CD\PrintingCharsAtIndicesInStrings\PrintingCharsAtIndicesInStrings\obj\Debug\PrintingCharsAtIndicesInStrings.csprojAssemblyReference.cache

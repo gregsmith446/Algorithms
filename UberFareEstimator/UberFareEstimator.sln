@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UberFareEstimator", "UberFareEstimator\UberFareEstimator.csproj", "{8F1289BC-2D0D-4386-B6E6-5D30DB719EAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{590303E6-FE7B-4111-BBF5-762F54551926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1289BC-2D0D-4386-B6E6-5D30DB719EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1289BC-2D0D-4386-B6E6-5D30DB719EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1289BC-2D0D-4386-B6E6-5D30DB719EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1289BC-2D0D-4386-B6E6-5D30DB719EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC72FD0-F864-48BB-B66C-326F5EF72994}
+	EndGlobalSection
+EndGlobal

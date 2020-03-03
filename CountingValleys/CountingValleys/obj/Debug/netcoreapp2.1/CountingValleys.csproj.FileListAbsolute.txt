@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.deps.json
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.dll
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\bin\Debug\netcoreapp2.1\CountingValleys.pdb
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.dll
+C:\Users\gregs\Desktop\CD\CountingValleys\CountingValleys\obj\Debug\netcoreapp2.1\CountingValleys.pdb

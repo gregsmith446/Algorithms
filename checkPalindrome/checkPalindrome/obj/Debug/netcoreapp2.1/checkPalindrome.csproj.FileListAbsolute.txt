@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\bin\Debug\netcoreapp2.1\checkPalindrome.deps.json
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\bin\Debug\netcoreapp2.1\checkPalindrome.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\bin\Debug\netcoreapp2.1\checkPalindrome.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\bin\Debug\netcoreapp2.1\checkPalindrome.dll
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\bin\Debug\netcoreapp2.1\checkPalindrome.pdb
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\obj\Debug\netcoreapp2.1\checkPalindrome.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\obj\Debug\netcoreapp2.1\checkPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\obj\Debug\netcoreapp2.1\checkPalindrome.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\obj\Debug\netcoreapp2.1\checkPalindrome.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\obj\Debug\netcoreapp2.1\checkPalindrome.dll
+C:\Users\gregs\Desktop\CD\checkPalindrome\checkPalindrome\obj\Debug\netcoreapp2.1\checkPalindrome.pdb

@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\obj\Debug\netcoreapp2.1\BinaryNumbers.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\obj\Debug\netcoreapp2.1\BinaryNumbers.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\obj\Debug\netcoreapp2.1\BinaryNumbers.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\obj\Debug\netcoreapp2.1\BinaryNumbers.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\bin\Debug\netcoreapp2.1\BinaryNumbers.deps.json
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\bin\Debug\netcoreapp2.1\BinaryNumbers.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\bin\Debug\netcoreapp2.1\BinaryNumbers.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\bin\Debug\netcoreapp2.1\BinaryNumbers.dll
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\bin\Debug\netcoreapp2.1\BinaryNumbers.pdb
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\obj\Debug\netcoreapp2.1\BinaryNumbers.dll
+C:\Users\gregs\Desktop\CD\BinaryNumbers\BinaryNumbers\obj\Debug\netcoreapp2.1\BinaryNumbers.pdb

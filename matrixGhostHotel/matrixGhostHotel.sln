@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrixGhostHotel", "matrixGhostHotel\matrixGhostHotel.csproj", "{6EC268D5-BD91-4B85-83AA-E9B7D190377C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC268D5-BD91-4B85-83AA-E9B7D190377C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC268D5-BD91-4B85-83AA-E9B7D190377C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC268D5-BD91-4B85-83AA-E9B7D190377C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC268D5-BD91-4B85-83AA-E9B7D190377C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22ACA0B6-D1DC-4A53-BC5E-75D3A87B0AFF}
+	EndGlobalSection
+EndGlobal

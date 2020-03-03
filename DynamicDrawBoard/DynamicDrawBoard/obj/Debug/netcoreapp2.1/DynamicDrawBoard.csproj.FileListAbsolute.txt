@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\bin\Debug\netcoreapp2.1\DynamicDrawBoard.deps.json
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\bin\Debug\netcoreapp2.1\DynamicDrawBoard.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\bin\Debug\netcoreapp2.1\DynamicDrawBoard.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\bin\Debug\netcoreapp2.1\DynamicDrawBoard.dll
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\bin\Debug\netcoreapp2.1\DynamicDrawBoard.pdb
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\obj\Debug\netcoreapp2.1\DynamicDrawBoard.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\obj\Debug\netcoreapp2.1\DynamicDrawBoard.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\obj\Debug\netcoreapp2.1\DynamicDrawBoard.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\obj\Debug\netcoreapp2.1\DynamicDrawBoard.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\obj\Debug\netcoreapp2.1\DynamicDrawBoard.dll
+C:\Users\gregs\Desktop\CD\DynamicDrawBoard\DynamicDrawBoard\obj\Debug\netcoreapp2.1\DynamicDrawBoard.pdb

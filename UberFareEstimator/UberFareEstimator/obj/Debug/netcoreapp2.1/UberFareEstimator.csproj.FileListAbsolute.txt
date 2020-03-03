@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\obj\Debug\netcoreapp2.1\UberFareEstimator.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\obj\Debug\netcoreapp2.1\UberFareEstimator.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\obj\Debug\netcoreapp2.1\UberFareEstimator.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\obj\Debug\netcoreapp2.1\UberFareEstimator.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\bin\Debug\netcoreapp2.1\UberFareEstimator.deps.json
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\bin\Debug\netcoreapp2.1\UberFareEstimator.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\bin\Debug\netcoreapp2.1\UberFareEstimator.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\bin\Debug\netcoreapp2.1\UberFareEstimator.dll
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\bin\Debug\netcoreapp2.1\UberFareEstimator.pdb
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\obj\Debug\netcoreapp2.1\UberFareEstimator.dll
+C:\Users\gregs\Desktop\CD\UberFareEstimator\UberFareEstimator\obj\Debug\netcoreapp2.1\UberFareEstimator.pdb

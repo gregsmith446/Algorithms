@@ -1,0 +1,7 @@
+C:\Users\gregs\Desktop\CD\AgeValidationInstanceOfClass\AgeValidationInstanceOfClass\bin\Debug\AgeValidationInstanceOfClass.exe.config
+C:\Users\gregs\Desktop\CD\AgeValidationInstanceOfClass\AgeValidationInstanceOfClass\bin\Debug\AgeValidationInstanceOfClass.exe
+C:\Users\gregs\Desktop\CD\AgeValidationInstanceOfClass\AgeValidationInstanceOfClass\bin\Debug\AgeValidationInstanceOfClass.pdb
+C:\Users\gregs\Desktop\CD\AgeValidationInstanceOfClass\AgeValidationInstanceOfClass\obj\Debug\AgeValidationInstanceOfClass.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\AgeValidationInstanceOfClass\AgeValidationInstanceOfClass\obj\Debug\AgeValidationInstanceOfClass.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\AgeValidationInstanceOfClass\AgeValidationInstanceOfClass\obj\Debug\AgeValidationInstanceOfClass.exe
+C:\Users\gregs\Desktop\CD\AgeValidationInstanceOfClass\AgeValidationInstanceOfClass\obj\Debug\AgeValidationInstanceOfClass.pdb
